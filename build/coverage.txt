@@ -1,0 +1,16 @@
+
+
+Code Coverage Report:     
+  2018-10-30 04:05:18     
+                          
+ Summary:                 
+  Classes:  0.00% (0/6)   
+  Methods: 24.32% (9/37)  
+  Lines:   32.41% (47/145)
+
+\Spatie\GoogleCalendar::Spatie\GoogleCalendar\Event
+  Methods:  26.32% ( 5/19)   Lines:  47.30% ( 35/ 74)
+\Spatie\GoogleCalendar::Spatie\GoogleCalendar\GoogleCalendar
+  Methods:  25.00% ( 2/ 8)   Lines:  14.29% (  4/ 28)
+\Spatie\GoogleCalendar::Spatie\GoogleCalendar\GoogleCalendarServiceProvider
+  Methods:  50.00% ( 2/ 4)   Lines:  42.86% (  6/ 14)

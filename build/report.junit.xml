@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Spatie Test Suite" tests="9" assertions="12" errors="0" failures="0" skipped="0" time="1.962142">
+    <testsuite name="Spatie\GoogleCalendar\Tests\Integration\EventTest" file="/home/nguyenxuancuong/Sites/laravel-google-calendar/tests/Integration/EventTest.php" tests="8" assertions="11" errors="0" failures="0" skipped="0" time="1.897059">
+      <testcase name="it_can_set_a_start_date" class="Spatie\GoogleCalendar\Tests\Integration\EventTest" classname="Spatie.GoogleCalendar.Tests.Integration.EventTest" file="/home/nguyenxuancuong/Sites/laravel-google-calendar/tests/Integration/EventTest.php" line="23" assertions="2" time="0.237538"/>
+      <testcase name="it_can_set_a_end_date" class="Spatie\GoogleCalendar\Tests\Integration\EventTest" classname="Spatie.GoogleCalendar.Tests.Integration.EventTest" file="/home/nguyenxuancuong/Sites/laravel-google-calendar/tests/Integration/EventTest.php" line="35" assertions="1" time="0.234035"/>
+      <testcase name="it_can_set_a_start_date_time" class="Spatie\GoogleCalendar\Tests\Integration\EventTest" classname="Spatie.GoogleCalendar.Tests.Integration.EventTest" file="/home/nguyenxuancuong/Sites/laravel-google-calendar/tests/Integration/EventTest.php" line="45" assertions="1" time="0.232273"/>
+      <testcase name="it_can_set_an_end_date_time" class="Spatie\GoogleCalendar\Tests\Integration\EventTest" classname="Spatie.GoogleCalendar.Tests.Integration.EventTest" file="/home/nguyenxuancuong/Sites/laravel-google-calendar/tests/Integration/EventTest.php" line="55" assertions="1" time="0.255520"/>
+      <testcase name="it_can_determine_a_sort_date" class="Spatie\GoogleCalendar\Tests\Integration\EventTest" classname="Spatie.GoogleCalendar.Tests.Integration.EventTest" file="/home/nguyenxuancuong/Sites/laravel-google-calendar/tests/Integration/EventTest.php" line="65" assertions="2" time="0.248637"/>
+      <testcase name="it_can_set_a_name" class="Spatie\GoogleCalendar\Tests\Integration\EventTest" classname="Spatie.GoogleCalendar.Tests.Integration.EventTest" file="/home/nguyenxuancuong/Sites/laravel-google-calendar/tests/Integration/EventTest.php" line="79" assertions="1" time="0.231579"/>
+      <testcase name="it_can_set_a_location" class="Spatie\GoogleCalendar\Tests\Integration\EventTest" classname="Spatie.GoogleCalendar.Tests.Integration.EventTest" file="/home/nguyenxuancuong/Sites/laravel-google-calendar/tests/Integration/EventTest.php" line="87" assertions="1" time="0.226778"/>
+      <testcase name="it_can_determine_if_an_event_is_an_all_day_event" class="Spatie\GoogleCalendar\Tests\Integration\EventTest" classname="Spatie.GoogleCalendar.Tests.Integration.EventTest" file="/home/nguyenxuancuong/Sites/laravel-google-calendar/tests/Integration/EventTest.php" line="95" assertions="2" time="0.230699"/>
+    </testsuite>
+    <testsuite name="Spatie\GoogleCalendar\Tests\Unit\GoogleCalendarTest" file="/home/nguyenxuancuong/Sites/laravel-google-calendar/tests/Unit/GoogleCalendarTest.php" tests="1" assertions="1" errors="0" failures="0" skipped="0" time="0.065083">
+      <testcase name="it_provides_a_getter_for_calendarId" class="Spatie\GoogleCalendar\Tests\Unit\GoogleCalendarTest" classname="Spatie.GoogleCalendar.Tests.Unit.GoogleCalendarTest" file="/home/nguyenxuancuong/Sites/laravel-google-calendar/tests/Unit/GoogleCalendarTest.php" line="33" assertions="1" time="0.065083"/>
+    </testsuite>
+  </testsuite>
+</testsuites>
